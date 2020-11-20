@@ -1,0 +1,1 @@
+adds to the tree readed numbers from text.
